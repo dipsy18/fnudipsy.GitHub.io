@@ -31,5 +31,5 @@
 **URL:** [http://cran.r-project.org/doc/manuals/R-intro.pdf](http://cran.r-project.org/doc/manuals/R-intro.pdf)
 #
 **Introduction:** This book introduces the readers to the R programming language. It is a powerful tool majorly used in statistical analysis and data computation. This book covers the basic fundamentals of R along with more advanced topics like statistical modeling, data visualization, and programming techniques. 
-
-
+#
+**Why it interests me?** I find this book "An Introduction to R" intriguing because of its comprehensive approach. It covers a wide range of topics, from basic to advanced. I am particularly interested in the statistical modeling and data visualization part of this book. R is the first programming language I learned during my undergrad in Statistics. R is a powerful tool for data analysis and visualization and this book touches every aspect of these topics, which makes it one of the best books about R.
