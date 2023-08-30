@@ -4,7 +4,7 @@
 **Source:** Kaggle
 
 **Owner:** Nandita Pore
-# 
+
 **Introduction:** This dataset, sourced from Kaggle, provides a wide range of health-related attributes. It has 10 columns described below:
 1. **ID:** A unique identifier for each individual data entry.
 2. **Pregnancies:** Number of times an individual has been pregnant.
@@ -17,7 +17,7 @@
 9. **Age:** Age of the individual at the time of data collection in years.
 10. **Outcome:** Binary classification indicating the individual has diabetes (1) or does not have diabetes (0).
     
-# 
+ 
 **Applications:** This dataset has a range of potential applications that can contribute to research in the medical field, healthcare analytics, and other useful data-driven decision-making. Some of its applications are given below:
 1. **Medical Research:** Researchers can use this type of dataset for building predictive models and finding correlations between diabetes and other factors. 
 2. **Early Diabetes Detection and Prevention:** By analyzing the dataset, healthcare professionals can identify early signs of diabetes and enable early intervention and better management.
@@ -29,7 +29,9 @@
 **Author:** W. N. Venables, D. M. Smith, and the R Core Team 
 
 **URL:** [http://cran.r-project.org/doc/manuals/R-intro.pdf](http://cran.r-project.org/doc/manuals/R-intro.pdf)
-#
+
+
 **Introduction:** This book introduces the readers to the R programming language. It is a powerful tool majorly used in statistical analysis and data computation. This book covers the basic fundamentals of R along with more advanced topics like statistical modeling, data visualization, and programming techniques. 
-#
+
+
 **Why it interests me?** I find this book "An Introduction to R" intriguing because of its comprehensive approach. It covers a wide range of topics, from basic to advanced. I am particularly interested in the statistical modeling and data visualization part of this book. R is the first programming language I learned during my undergrad in Statistics. R is a powerful tool for data analysis and visualization and this book touches every aspect of these topics, which makes it one of the best books about R.
