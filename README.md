@@ -1,6 +1,10 @@
 ## fnudipsy.GitHub.io
 # **Healthcare Diabetes Dataset from Kaggle**
 **URL:** [https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)
+
+**Source:** Kaggle
+
+**Owner:** Nandita Pore
 # 
 **Introduction:** This dataset, sourced from Kaggle, provides a wide range of health related attributes. It has 10 columns described as below:
 1. **ID:** A unique identifier for each individual data entry.
