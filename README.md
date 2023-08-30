@@ -1,5 +1,4 @@
-## fnudipsy.GitHub.io
-# **Healthcare Diabetes Dataset from Kaggle**
+# **Dataset: Healthcare Diabetes**
 **URL:** [https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)
 
 **Source:** Kaggle
@@ -23,3 +22,11 @@
 2. **Early Diabetes Detection and Prevention:** By analyzing the dataset, healthcare professionals can identify early signs of diabetes and enabling early intervention and better management.
 3. **Genetic Studies:**  This dataset's family history information can be useful for genetic research related to diabetes inheritance patterns.
 4. **Data Visualization Tools:** Creating interactive data visualizations tools for healthcare professionals to explore and understand diabetes patterns.
+
+
+# Book: An Introduction to R
+**Author:** W. N. Venables, D. M. Smith, and the R Core Team 
+
+**URL:** [http://cran.r-project.org/doc/manuals/R-intro.pdf](http://cran.r-project.org/doc/manuals/R-intro.pdf)
+#
+**Introduction:** 
