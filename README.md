@@ -16,6 +16,7 @@
 8. **DiabetesPedigreeFunction:** Diabetes pedigree function refers to a numerical score of diabetes risk based on family history.
 9. **Age:** Age of the individual at the time of data collection in years.
 10. **Outcome:** Binary classification indicating the individual has diabetes (1) or does not have diabetes (0).
+    
 # 
 **Applications:** This dataset has a range of potential applications that can contribute to research in the medical field, healthcare analytics, and other useful data-driven decision-making. Some of its applications are given below:
 1. **Medical Research:** Researchers can use this type of dataset for building predictive models and finding correlations between diabetes and other factors. 
@@ -29,4 +30,6 @@
 
 **URL:** [http://cran.r-project.org/doc/manuals/R-intro.pdf](http://cran.r-project.org/doc/manuals/R-intro.pdf)
 #
-**Introduction:** This book introduces the readers to the R programming language. It is a powerful tool majorly used in statistical analysis and data computation. This book covers the basic fundamentals of R along with more advanced topics like statistical modeling, data visualization, and programming techniques.    
+**Introduction:** This book introduces the readers to the R programming language. It is a powerful tool majorly used in statistical analysis and data computation. This book covers the basic fundamentals of R along with more advanced topics like statistical modeling, data visualization, and programming techniques. 
+
+
